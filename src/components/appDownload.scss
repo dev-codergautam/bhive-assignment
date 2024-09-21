@@ -1,0 +1,16 @@
+@media (min-width: 1025px) {
+  .download-card {
+    margin-top: 190px;
+    .footer-img {
+      position: absolute;
+    }
+  }
+}
+@media (max-width: 1024px) {
+  .download-card {
+    margin-top: 10px;
+  }
+  .download-card-text {
+    display: none;
+  }
+}
